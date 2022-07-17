@@ -59,3 +59,6 @@ After clicking on Build now, you can see the status of the build you run under B
 ### Step 10) See the console output
 
 Click on the build number and then Click on console output to see the status of the build you run. It should show you a success message, provided you have followed the setup properly as shown in the below Jenkins create new job example.
+
+
+<a href="https://www.guru99.com/create-builds-jenkins-freestyle-project.html">more detail</a>
